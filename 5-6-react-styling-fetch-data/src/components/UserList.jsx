@@ -29,5 +29,4 @@ function UserList({ users, onUserClick }) {
     </Row>
   );
 }
-
 export default UserList;
