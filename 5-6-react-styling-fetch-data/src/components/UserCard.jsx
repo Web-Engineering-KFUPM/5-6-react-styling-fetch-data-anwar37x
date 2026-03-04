@@ -27,5 +27,4 @@ function UserCard({ user, onUserClick }) {
     </Card>
   );
 }
-
 export default UserCard;
