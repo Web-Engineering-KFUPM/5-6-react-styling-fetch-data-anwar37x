@@ -55,5 +55,4 @@ function UserModal({ show, user, onHide }) {
 
   );
 }
-
-export default UserModal
+export default UserCard;
